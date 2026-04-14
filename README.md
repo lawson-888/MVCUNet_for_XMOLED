@@ -26,7 +26,7 @@ MVCUNet_for_XMOLED/
 - Python 3.8.20
 - PyTorch 1.13.0
 - NVIDIA GeForce RTX 4090 GPU
-- Linux
+- Ubuntu 16.04.7 LTS 
 
 ---
 
