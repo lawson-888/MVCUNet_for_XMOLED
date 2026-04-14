@@ -1,6 +1,6 @@
 # MVCUNet for XMOLED
 
-This repository contains the official implementation of our work on quantitative MRI parameter reconstruction based on MVCUNet.
+This repository contains the official implementation of our work on quantitative MR parameters reconstruction based on MVCUNet.
 
 ---
 
@@ -32,7 +32,7 @@ MVCUNet_for_XMOLED/
 
 ## Data Availability
 
-The data used in this study are not publicly available due to privacy and ethical restrictions, but are available from the corresponding author upon reasonable request.
+The data used in this study are not publicly available due to privacy and ethical restrictions, but are available from the author upon reasonable request.
 
 ---
 
