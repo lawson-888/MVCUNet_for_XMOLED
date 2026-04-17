@@ -32,7 +32,8 @@ MVCUNet_for_XMOLED/
 
 ## Data Availability
 
-The data used in this study are not publicly available due to privacy and ethical restrictions, but are available from the author upon reasonable request.
+The numerical phantom templates are provided. https://pan.baidu.com/s/1l_bqKNc2sORllqIkqVpZHw?pwd=1234
+Due to privacy and ethical restrictions, human brain data may be made available from the authors upon reasonable request and subject to institutional approval.
 
 ---
 
